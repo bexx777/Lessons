@@ -1,4 +1,4 @@
-package lesson_67.homeTask.controller;
+package lesson_67_WildCards.homeTask.controller;
 
 public class Main {
     public static void main(String[] args) {

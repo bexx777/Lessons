@@ -1,4 +1,4 @@
-package lesson_67.newTopic.controller;
+package lesson_67_WildCards.newTopic.controller;
 
 public class Main {
     public static void main(String[] args) {
